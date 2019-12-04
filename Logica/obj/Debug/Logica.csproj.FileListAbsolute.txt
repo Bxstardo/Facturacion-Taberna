@@ -1,0 +1,14 @@
+D:\PROYECTO COMPLETO\Solution3\Logica\bin\Debug\Logica.dll
+D:\PROYECTO COMPLETO\Solution3\Logica\bin\Debug\Logica.pdb
+D:\PROYECTO COMPLETO\Solution3\Logica\bin\Debug\Datos.dll
+D:\PROYECTO COMPLETO\Solution3\Logica\bin\Debug\Datos.pdb
+D:\PROYECTO COMPLETO\Solution3\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\PROYECTO COMPLETO\Solution3\Logica\obj\Debug\Logica.dll
+D:\PROYECTO COMPLETO\Solution3\Logica\obj\Debug\Logica.pdb
+D:\ProyectoComprado\Solution3\Logica\bin\Debug\Logica.dll
+D:\ProyectoComprado\Solution3\Logica\bin\Debug\Logica.pdb
+D:\ProyectoComprado\Solution3\Logica\bin\Debug\Datos.dll
+D:\ProyectoComprado\Solution3\Logica\bin\Debug\Datos.pdb
+D:\ProyectoComprado\Solution3\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\ProyectoComprado\Solution3\Logica\obj\Debug\Logica.dll
+D:\ProyectoComprado\Solution3\Logica\obj\Debug\Logica.pdb

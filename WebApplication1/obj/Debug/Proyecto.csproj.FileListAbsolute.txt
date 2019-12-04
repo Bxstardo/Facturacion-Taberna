@@ -1,0 +1,156 @@
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\bin\roslyn\csc.exe
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\bin\roslyn\vbc.exe
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\bin\roslyn\VBCSCompiler.exe
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\bin\WebApplication1.dll.config
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\bin\WebApplication1.dll
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\bin\WebApplication1.pdb
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\estudiante\documents\visual studio 2015\Projects\Solution3\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\Solution3\WebApplication1\bin\roslyn\csc.exe
+F:\Solution3\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Solution3\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Solution3\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Solution3\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\Solution3\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\Solution3\WebApplication1\bin\roslyn\vbc.exe
+F:\Solution3\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\Solution3\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\Solution3\WebApplication1\bin\WebApplication1.dll.config
+F:\Solution3\WebApplication1\bin\WebApplication1.dll
+F:\Solution3\WebApplication1\bin\WebApplication1.pdb
+F:\Solution3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Solution3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Solution3\WebApplication1\obj\Debug\Proyecto.csprojAssemblyReference.cache
+F:\Solution3\WebApplication1\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+F:\Solution3\WebApplication1\obj\Debug\Proyecto.csproj.CopyComplete
+F:\Solution3\WebApplication1\obj\Debug\WebApplication1.dll
+F:\Solution3\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\Solution3\WebApplication1\bin\roslyn\csc.exe
+E:\Solution3\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Solution3\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Solution3\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Solution3\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\Solution3\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Solution3\WebApplication1\bin\roslyn\vbc.exe
+E:\Solution3\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\Solution3\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\Solution3\WebApplication1\bin\WebApplication1.dll.config
+E:\Solution3\WebApplication1\bin\WebApplication1.dll
+E:\Solution3\WebApplication1\bin\WebApplication1.pdb
+E:\Solution3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Solution3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Solution3\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Solution3\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\Solution3\WebApplication1\obj\Debug\Proyecto.csprojAssemblyReference.cache
+E:\Solution3\WebApplication1\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+E:\Solution3\WebApplication1\obj\Debug\Proyecto.csproj.CopyComplete
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\csc.exe
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\vbc.exe
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\WebApplication1.dll.config
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\WebApplication1.dll
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\WebApplication1.pdb
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\obj\Debug\Proyecto.csprojAssemblyReference.cache
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\obj\Debug\Proyecto.csproj.CopyComplete
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\obj\Debug\WebApplication1.dll
+E:\PROYECTO COMPLETO\Solution3\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\csc.exe
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\vbc.exe
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\VBCSCompiler.exe
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\WebApplication1.dll.config
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\WebApplication1.dll
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\WebApplication1.pdb
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\obj\Debug\Proyecto.csprojAssemblyReference.cache
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\obj\Debug\Proyecto.csproj.CopyComplete
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\obj\Debug\WebApplication1.dll
+G:\PROYECTO COMPLETO\Solution3\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\csc.exe
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\vbc.exe
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\WebApplication1.dll.config
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\WebApplication1.dll
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\WebApplication1.pdb
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\obj\Debug\WebApplication1.dll
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\Datos.dll
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\Logica.dll
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\Datos.pdb
+D:\PROYECTO COMPLETO\Solution3\WebApplication1\bin\Logica.pdb
+D:\ProyectoComprado\Solution3\WebApplication1\bin\roslyn\csc.exe
+D:\ProyectoComprado\Solution3\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ProyectoComprado\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ProyectoComprado\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ProyectoComprado\Solution3\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ProyectoComprado\Solution3\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ProyectoComprado\Solution3\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ProyectoComprado\Solution3\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\ProyectoComprado\Solution3\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\ProyectoComprado\Solution3\WebApplication1\bin\roslyn\vbc.exe
+D:\ProyectoComprado\Solution3\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\ProyectoComprado\Solution3\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\ProyectoComprado\Solution3\WebApplication1\bin\WebApplication1.dll.config
+D:\ProyectoComprado\Solution3\WebApplication1\bin\WebApplication1.dll
+D:\ProyectoComprado\Solution3\WebApplication1\bin\WebApplication1.pdb
+D:\ProyectoComprado\Solution3\WebApplication1\bin\Datos.dll
+D:\ProyectoComprado\Solution3\WebApplication1\bin\Logica.dll
+D:\ProyectoComprado\Solution3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ProyectoComprado\Solution3\WebApplication1\bin\Datos.pdb
+D:\ProyectoComprado\Solution3\WebApplication1\bin\Logica.pdb
+D:\ProyectoComprado\Solution3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ProyectoComprado\Solution3\WebApplication1\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+D:\ProyectoComprado\Solution3\WebApplication1\obj\Debug\WebApplication1.dll
+D:\ProyectoComprado\Solution3\WebApplication1\obj\Debug\WebApplication1.pdb

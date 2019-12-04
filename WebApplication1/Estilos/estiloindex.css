@@ -1,0 +1,42 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(218, 18, 133, 0.3);
+}
+
+#content {
+    text-align: left;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: #808080;
+    ;
+}
+#cabecera {
+    text-align: center;
+    width: 100%;
+    height: 20%;
+    background-color: rgba(218, 18, 133, 0.3);
+}
+#menu {
+    width: 20%;
+    height: 65%;
+    float: left;
+    background-color: rgba(218, 18, 133, 0.3);
+}
+#principal {
+    width: 80%;
+    height: 65%;
+    float: left;
+    background-color: rgba(218, 18, 133, 0.3);
+}
+#pie {
+    width: 100%;
+    height: 25%;
+    background-color: rgba(218, 18, 133, 0.3);
+}
+#iniciosesión {
+    text-align: center;
+    background-color: rgba(218, 18, 133, 0.3);
+}
